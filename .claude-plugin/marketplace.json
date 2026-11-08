@@ -1,0 +1,15 @@
+{
+  "name": "formualizer-marketplace",
+  "description": "Formualizer spreadsheet recalculation, batch editing, source inspection, and formula dependency tracing plugins.",
+  "owner": {
+    "name": "Formualizer",
+    "url": "https://github.com/PSU3D0/formualizer"
+  },
+  "plugins": [
+    {
+      "name": "formualizer",
+      "description": "Fast stateless Excel (.xlsx) formula recalculation, batch editing with diff receipts, source inspection, and precedent/dependent tracing.",
+      "source": "./"
+    }
+  ]
+}
